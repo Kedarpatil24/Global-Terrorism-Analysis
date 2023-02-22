@@ -74,9 +74,14 @@ The basic goal was to enforce a level of consistency or uniformity to certain pr
 # Conclusions :
 
 •	Most of the attacks were done on year 2014.
+
 •	Taliban is the most active terrorist group in the world.
+
 •	Iraq is the most affected country from terrorism because most of the peoples killed in Iraq. In Iraq a maximum of 1570 people killed in a single attack.
+
 •	The Middle East and North Africa have the highest number of attacks followed by South Asia and South America. Terrorism here does not show an equal distribution among all regions.
+
 •	Private Citizens and property military is the most target type as per the dataset.
+
 •	It seems that explosives were used in around 48.6% of the attacks, followed by Armed Assault accounted for 23.5% of the attacks.
 
