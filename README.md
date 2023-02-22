@@ -1,10 +1,12 @@
 # Global-Terrorism-Analysis
 The objective of this work is to analyze the region and country of a terrorist attack using exploratory data analysis, in order to acquire valuable information about the predicted attacks and attackers.
 # Problem Statement
+
 Data provided by the Global Terrorism Database.csv file is in unformatted manner, uneven data, and duplicate data and also some data columns it is irrelevant, because it’s a piled-up data coming from various different countries. For doing the analysis on the data the data needs to be in correct format and well organized formed The main objective of the analysis is to obtain the meaning full information and facts from the given huge datasets, by cleaning the datasets, doing a proper analysis and visualization and plotting the useful information into different graph and charts so that the trend and relationship between the various indicators on which the analysis is done can be understand easily.
 
 
-2. Dataset
+# Dataset
+
 The dataset contains data of more than 180000 terrorist events(no. of rows) happened since 1970 and has over 135 variables (no. of columns) describing each attack. Some of the key attributes consisting those variables which are taken under consideration for this project are listed below:
 
 ● Attacktype1_txt :
@@ -43,7 +45,8 @@ Region_txt consists of values like East Asia, South Asia, Western Europe, etc.
 
 ●Note : For the better interpretability we had name converted those attributes in simple manner.
 
-3. Steps involved:
+# Steps involved:
+
 ● Exploratory Data Analysis
 
 After loading the dataset we performed this method by comparing our target variable that is Surge_Pricing_Type with other independent variables. This process helped us figuring out various aspects and relationships among the target and the independent variables. It gave us a better idea of which
@@ -68,18 +71,12 @@ performing fitting and applying different algorithms to it.
 
 The basic goal was to enforce a level of consistency or uniformity to certain practices or operations within the selected environment.
 
-Conclusions :
-● The year in which maximum attacks took place was during the year 2014.
+# Conclusions :
 
-● The attacks were seen gradually increasing from 2005 to 2014
-
-● The country which was attacked the most are Iraq,Pakistan,Afghanistan and India
-
-● Different kind of attacks were done .The major was through Bombing/Explosion as it gives higher damage and Armed Asult.
-
-● The Middle East and North Africa was the most affected region
-
-● The most affected city in the world is Baghdad and Indian City is Srinagar
-
-● We observed that attack mostly takes place on weekdays(Mon,Tue,Wed,Thur) compared to weekends(Fri,Sat,Sun)
+•	Most of the attacks were done on year 2014.
+•	Taliban is the most active terrorist group in the world.
+•	Iraq is the most affected country from terrorism because most of the peoples killed in Iraq. In Iraq a maximum of 1570 people killed in a single attack.
+•	The Middle East and North Africa have the highest number of attacks followed by South Asia and South America. Terrorism here does not show an equal distribution among all regions.
+•	Private Citizens and property military is the most target type as per the dataset.
+•	It seems that explosives were used in around 48.6% of the attacks, followed by Armed Assault accounted for 23.5% of the attacks.
 
